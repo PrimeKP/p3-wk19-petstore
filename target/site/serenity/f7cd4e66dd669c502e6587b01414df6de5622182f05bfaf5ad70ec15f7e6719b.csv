@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","Test001","SUCCESS","2023-01-10T22:18:59.786Z[Europe/London]","0.0","1.35"
+"Tags test","Test002","SUCCESS","2023-01-10T22:19:01.133Z[Europe/London]","0.0","0.63"
+"Tags test","Provide 500 status code when incorrect Http method is used to access resource","FAILURE","2023-01-10T22:19:01.765Z[Europe/London]","0.0","0.68"
+"Tags test","Provide 200 status code when correct Http method is used to access resource","SUCCESS","2023-01-10T22:19:02.460Z[Europe/London]","0.0","0.72"

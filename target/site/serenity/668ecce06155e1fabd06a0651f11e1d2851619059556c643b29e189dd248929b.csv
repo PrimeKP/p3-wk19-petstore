@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pet CRUD test","This will add a pet information","SUCCESS","2023-01-10T22:18:54.916Z[Europe/London]","0.0","0.75"
+"Pet CRUD test","This will find pet information by petID","SUCCESS","2023-01-10T22:18:55.669Z[Europe/London]","0.0","0.63"
+"Pet CRUD test","This will update pet information","SUCCESS","2023-01-10T22:18:56.298Z[Europe/London]","0.0","0.62"
+"Pet CRUD test","Deleting pet info and verifying pet info is delted","SUCCESS","2023-01-10T22:18:56.918Z[Europe/London]","0.0","1.28"
